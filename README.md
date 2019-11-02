@@ -279,7 +279,7 @@ Run the app again and this will be the result:
 
 ## Conclusion
 
-In order to make a SPA page running along side a web API in the same solution, it was needed to make changes manually in the .Net Core project config file. A helper class was created to manage the Vue application as well.
+In order to make a SPA page running along side a web API in the same project, it was needed to make changes manually in the .Net Core project config file. A helper class was created to manage the Vue application as well.
 
 ## Reference
 
